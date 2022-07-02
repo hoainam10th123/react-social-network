@@ -31,7 +31,7 @@
 
 ## xem thư mục Infrastructure\Data\Seed, để lấy tài khoản đăng nhập, đổi chuổi kết nối trong appsettings.json để chạy
 
-![video call 1](video call.png)
+![video call 1](videocall.png)
 ![video call 1](home.png)
 ![video call 1](chat.png)
 ![video call 1](callto.png)
